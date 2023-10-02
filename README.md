@@ -10,5 +10,12 @@
 - Eigenvalues and Eigenvectors
  
 ## [Calculus for Machine Learning and Data Science](https://github.com/iampramodyadav/probability-statistics/blob/main/calculus_ML.ipynb)
-
+- Differentiation in Python: Symbolic, Numerical and Automatic
+- Optimization Using Gradient Descent in One Variable
+- Optimization Using Gradient Descent in Two Variables
+- Optimization Using Gradient Descent: Linear Regression
+- Regression with Perceptron
+- Classification with Perceptron
+- Optimization Using Newton's Method
+- Neural Network with Two Layers
 ## [Probability & Statistics for Machine Learning & Data Science](https://github.com/iampramodyadav/probability-statistics/blob/main/prob_stat_ML.ipynb)
