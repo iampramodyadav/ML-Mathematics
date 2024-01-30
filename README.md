@@ -1,5 +1,7 @@
 # [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 
+**[TaylorSeries](https://github.com/iampramodyadav/probability-statistics/blob/main/TaylorSeries.ipynb)**
+
 ## Linear Algebra for Machine Learning and Data Science
 
 [Linear Algebra for Machine Learning and Data Science](https://github.com/iampramodyadav/probability-statistics/blob/main/linear_algebra_ML.ipynb)
