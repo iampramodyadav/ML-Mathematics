@@ -1,10 +1,10 @@
 # [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 
-**[TaylorSeries](https://github.com/iampramodyadav/probability-statistics/blob/main/TaylorSeries.ipynb)**
+**[TaylorSeries](https://github.com/iampramodyadav/ML-Mathematics/blob/main/TaylorSeries.ipynb)**
 
 ## Linear Algebra for Machine Learning and Data Science
 
-[Linear Algebra for Machine Learning and Data Science](https://github.com/iampramodyadav/probability-statistics/blob/main/linear_algebra_ML.ipynb)
+[Linear Algebra for Machine Learning and Data Science](https://github.com/iampramodyadav/ML-Mathematics/blob/main/linear_algebra_ML.ipynb)
 - Solving Linear Systems: 2 variables
 - Solving Linear Systems: 3 variables
 - Vector Operations
@@ -15,7 +15,7 @@
  
 ## Calculus for Machine Learning and Data Science
 
-[Calculus for Machine Learning and Data Science](https://github.com/iampramodyadav/probability-statistics/blob/main/calculus_ML.ipynb)
+[Calculus for Machine Learning and Data Science](https://github.com/iampramodyadav/ML-Mathematics/blob/main/calculus_ML.ipynb)
 - Differentiation in Python: Symbolic, Numerical and Automatic
 - Optimization Using Gradient Descent in One Variable
 - Optimization Using Gradient Descent in Two Variables
@@ -27,4 +27,4 @@
   
 ## Probability & Statistics for Machine Learning & Data Science
 
-[Probability & Statistics for Machine Learning & Data Science](https://github.com/iampramodyadav/probability-statistics/blob/main/prob_stat_ML.ipynb)
+[Probability & Statistics for Machine Learning & Data Science](https://github.com/iampramodyadav/ML-Mathematicss/blob/main/prob_stat_ML.ipynb)
